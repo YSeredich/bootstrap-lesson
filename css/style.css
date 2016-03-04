@@ -5,3 +5,12 @@ a.spoiler::after {
 a.spoiler.collapsed::after {
     content: " [+]";
 }
+
+.progress-bar {
+    min-width: 2%;
+    width: 10%;
+}
+
+.progress-bar-striped {
+    width: 50%;
+}
