@@ -14,3 +14,7 @@ a.spoiler.collapsed::after {
 .progress-bar-striped {
     width: 50%;
 }
+
+.nav-tabs {
+    margin-bottom: 15px;
+}
